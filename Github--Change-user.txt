@@ -1,0 +1,18 @@
+Step-1:
+git config --global user.name " name "
+git config --global user.email " name@mail.com "
+
+git config --global user.name "Yoki"
+git config --global user.email "thekingmaker0012@gmail.com"
+
+Step-2: 
+REMOVE GITHUB LOGIN Credentials
+
+windows start -> control panel -> Credential Manager
+--> Control Panel\All Control Panel Items\Credential Manager
+
+step-3: 
+push the code and check for username and email before pushing
+to check:
+git config --global user.name
+git config --global user.email
