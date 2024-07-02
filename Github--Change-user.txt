@@ -6,7 +6,7 @@ git config --global user.name "Yoki"
 git config --global user.email "thekingmaker0012@gmail.com"
 
 Step-2: 
-REMOVE GITHUB LOGIN Credentials
+REMOVE GITHUB LOGIN Credentials  (git:https://github.com)
 
 windows start -> control panel -> Credential Manager
 --> Control Panel\All Control Panel Items\Credential Manager
