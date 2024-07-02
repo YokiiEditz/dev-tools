@@ -1,18 +1,22 @@
-Step-1:
+Step-1: 
+->FORMATS:
+git config --list (to find username and user-email present already)
 git config --global user.name " name "
 git config --global user.email " name@mail.com "
 
+-> TO CHANGE INTO NEW USERNAME AND EMAIL:
 git config --global user.name "Yoki"
 git config --global user.email "thekingmaker0012@gmail.com"
 
 Step-2: 
-REMOVE GITHUB LOGIN Credentials  (git:https://github.com)
+-> REMOVE GITHUB LOGIN Credentials  (git:https://github.com)
 
 windows start -> control panel -> Credential Manager
---> Control Panel\All Control Panel Items\Credential Manager
+-> Control Panel\All Control Panel Items\Credential Manager
 
 step-3: 
-push the code and check for username and email before pushing
+-> push the code and check for username and email before pushing
 to check:
+
 git config --global user.name
 git config --global user.email
