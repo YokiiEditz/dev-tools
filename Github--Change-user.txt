@@ -5,8 +5,13 @@ git config --global user.name " name "
 git config --global user.email " name@mail.com "
 
 -> TO CHANGE INTO NEW USERNAME AND EMAIL:
+Email 1:
 git config --global user.name "Yoki"
 git config --global user.email "thekingmaker0012@gmail.com"
+
+Email 2:
+git config --global user.name "Yokesh"
+git config --global user.email "yokeshbaskaran@gmail.com"
 
 Step-2: 
 -> REMOVE GITHUB LOGIN Credentials  (git:https://github.com)
